@@ -1,2 +1,0 @@
-# intellij.java
- Beginner programmer
